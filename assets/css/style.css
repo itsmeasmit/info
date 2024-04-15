@@ -1664,6 +1664,9 @@ canvas {
   font-size: 16px;
   margin-bottom: 0;
 }
+.st-skill-subtitle{
+      text-align: justify;
+  }
 
 .st-progressbar-percentage {
   color: #fec544;
@@ -1684,6 +1687,9 @@ canvas {
 @media screen and (max-width: 991px) {
   .st-skill-title {
     font-size: 28px;
+  }
+  .st-skill-subtitle{
+      text-align: justify;
   }
 }
 
